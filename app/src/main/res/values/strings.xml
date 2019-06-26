@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">joorchat</string>
+    <string name="username">Username</string>
+    <string name="join_chat">Join Chat</string>
+    <string name="send">Send</string>
+    <string name="enter_message">Enter message…</string>
+    <string name="appID">4728d980f3d108</string>
+    <string name="apiKey">530fa590243a68effc3d9497aeb09a4cc76804b7</string>
+</resources>
